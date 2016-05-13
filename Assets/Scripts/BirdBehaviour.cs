@@ -41,10 +41,5 @@ public class BirdBehaviour : MonoBehaviour {
         Destroy(gameObject);
         getNextBird = true;
     }
-
-    void OnTriggerEnter2D()
-    {
-        //WHEN HIT TO CASTLE,CHANGE SOMETHING ON BIRD
-    }
 }
 

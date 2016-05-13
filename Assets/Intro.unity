@@ -193,7 +193,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 495424, guid: f2a52f3268740674e893cdd27281b76b, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 495424, guid: f2a52f3268740674e893cdd27281b76b, type: 2}
       propertyPath: m_LocalRotation.x
@@ -218,6 +218,10 @@ Prefab:
     - target: {fileID: 181836, guid: f2a52f3268740674e893cdd27281b76b, type: 2}
       propertyPath: m_Name
       value: Red Bird 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5001104, guid: f2a52f3268740674e893cdd27281b76b, type: 2}
+      propertyPath: m_IsKinematic
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f2a52f3268740674e893cdd27281b76b, type: 2}
@@ -2245,7 +2249,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 495424, guid: f2a52f3268740674e893cdd27281b76b, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 495424, guid: f2a52f3268740674e893cdd27281b76b, type: 2}
       propertyPath: m_LocalRotation.x
@@ -2270,6 +2274,10 @@ Prefab:
     - target: {fileID: 181836, guid: f2a52f3268740674e893cdd27281b76b, type: 2}
       propertyPath: m_Name
       value: Red Bird 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5001104, guid: f2a52f3268740674e893cdd27281b76b, type: 2}
+      propertyPath: m_IsKinematic
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f2a52f3268740674e893cdd27281b76b, type: 2}
@@ -2357,7 +2365,7 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 495424, guid: f2a52f3268740674e893cdd27281b76b, type: 2}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 495424, guid: f2a52f3268740674e893cdd27281b76b, type: 2}
       propertyPath: m_LocalRotation.x
@@ -2382,6 +2390,10 @@ Prefab:
     - target: {fileID: 181836, guid: f2a52f3268740674e893cdd27281b76b, type: 2}
       propertyPath: m_Name
       value: Red Bird 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5001104, guid: f2a52f3268740674e893cdd27281b76b, type: 2}
+      propertyPath: m_IsKinematic
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: f2a52f3268740674e893cdd27281b76b, type: 2}

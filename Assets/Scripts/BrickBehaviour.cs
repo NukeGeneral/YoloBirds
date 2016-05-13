@@ -4,7 +4,7 @@ using System.Collections;
 public class BrickBehaviour : MonoBehaviour {
 
     private AudioSource audioSource;
-    private float health = 1000000000.0f;
+    private float health = 100.0f;
     public Sprite oneDamagePrefab;
     public Sprite twoDamagePrefab;
     public Sprite threeDamagePrefab;
@@ -20,7 +20,7 @@ public class BrickBehaviour : MonoBehaviour {
             return;
         if(target.collider.tag == "Bird")
         {
-            float damage = target.gameObject.GetComponent<Rigidbody2D>().velocity.magnitude * 5f;
+            float damage = target.gameObject.GetComponent<Rigidbody2D>().velocity.magnitude * 0.05f;
             if (damage > 25)
                 audioSource.Play();
             health = -damage;

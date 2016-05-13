@@ -29,7 +29,7 @@ public class PigBehaviour : MonoBehaviour {
 
         else
         {
-            float damage = target.gameObject.GetComponent<Rigidbody2D>().velocity.magnitude * 5f;
+            float damage = target.gameObject.GetComponent<Rigidbody2D>().velocity.magnitude * 2f;
             if (damage >= 15)
                 audioSource.Play();
 
