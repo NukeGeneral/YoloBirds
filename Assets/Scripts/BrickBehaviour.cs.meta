@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e161afde8c06f67419e18685da24bab1
+timeCreated: 1462197107
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - oneDamagePrefab: {fileID: 166614, guid: 63da1476fd3c1cb43b3af554b114d7f1, type: 2}
+  - twoDamagePrefab: {fileID: 190788, guid: 61cdbffea15dbf6468e94272f5586ab4, type: 2}
+  - threeDamagePrefab: {fileID: 136998, guid: a94b9491c2b0e7147bf1bc8aa9659db9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

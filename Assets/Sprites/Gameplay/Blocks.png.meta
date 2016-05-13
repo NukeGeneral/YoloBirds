@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: 70772d84936d024499013bf32adb6de8
+timeCreated: 1462185550
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Blocks_0
+    21300002: Blocks_1
+    21300004: Blocks_2
+    21300006: Blocks_3
+    21300008: Blocks_4
+    21300010: Blocks_5
+    21300012: Blocks_6
+    21300014: Blocks_7
+    21300016: Blocks_8
+    21300018: Blocks_9
+    21300020: Blocks_10
+    21300022: Blocks_11
+    21300024: Blocks_12
+    21300026: Blocks_13
+    21300028: Brick 0Dmg
+    21300030: Blocks_15
+    21300032: Blocks_16
+    21300034: Blocks_17
+    21300036: Brick 1 dmg
+    21300038: Blocks_19
+    21300040: Blocks_20
+    21300042: Blocks_21
+    21300044: Blocks_22
+    21300046: Blocks_23
+    21300048: Brick 2 dmg
+    21300050: Blocks_25
+    21300052: Blocks_26
+    21300054: Blocks_27
+    21300056: Brick 3 dmg
+    21300058: Blocks_29
+    21300060: Blocks_30
+    21300062: Blocks_31
+    21300064: Blocks_32
+    21300066: Short 0 dmg
+    21300068: Blocks_34
+    21300070: Blocks_35
+    21300072: Blocks_36
+    21300074: Short 1 dmg
+    21300076: Blocks_38
+    21300078: Blocks_39
+    21300080: Short 2 dmg
+    21300082: Short 3 dmg
+    21300084: Blocks_42
+    21300086: Blocks_43
+    21300088: Blocks_44
+    21300090: Blocks_45
+    21300092: Blocks_46
+    21300094: Blocks_47
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Blocks_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 621
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 644
+        width: 103
+        height: 55
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_2
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 667
+        width: 105
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_3
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 668
+        width: 105
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 515
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_5
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 516
+        width: 95
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_6
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 516
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_7
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 516
+        width: 95
+        height: 92
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_8
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 596
+        width: 104
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_9
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 573
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_10
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 501
+        width: 103
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_11
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 534
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_12
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 531
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_13
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 416
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brick 0Dmg
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 481
+        width: 251
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_15
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 445
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_16
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 495
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_17
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 490
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brick 1 dmg
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 429
+        width: 251
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_19
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 413
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_20
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 398
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_21
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 448
+        width: 53
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_22
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 440
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_23
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 358
+        width: 102
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brick 2 dmg
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 383
+        width: 255
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_25
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 374
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_26
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 405
+        width: 53
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 271
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Brick 3 dmg
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 339
+        width: 257
+        height: 30
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_29
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 304
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_30
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 306
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_31
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 304
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_32
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 309
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Short 0 dmg
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 285
+        width: 207
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_34
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 215
+        width: 103
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_35
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 238
+        width: 104
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_36
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 236
+        width: 105
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Short 1 dmg
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 256
+        width: 206
+        height: 27
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_38
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 195
+        width: 104
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_39
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 196
+        width: 104
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Short 2 dmg
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 217
+        width: 206
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Short 3 dmg
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 177
+        width: 206
+        height: 28
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_42
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 76
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 74
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_44
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 32
+        width: 104
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_45
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 33
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 30
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Blocks_47
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 31
+        width: 104
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3c687ab2aa6bf094dbc607e31194ac49
+timeCreated: 1462377463
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - birdWaitPos: {fileID: 406714, guid: 851f14e3a93e21b429b00c4a35de641c, type: 2}
+  - slingshotLineRendererLeft: {instanceID: 0}
+  - slingshotLineRendererRight: {instanceID: 0}
+  - leftLineRenderer: {instanceID: 0}
+  - rightLineRenderer: {instanceID: 0}
+  - birdToThrow: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
